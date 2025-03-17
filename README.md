@@ -53,12 +53,12 @@ Here's a little bit about me:
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Willvillegas&show_icons=true&theme=github_dark" />
+<p align="center">
+<a href="https://github.com/WillVillegas">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Willvillegas&show_icons=true&theme=github_dark" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Willvillegas&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_progress=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Willvillegas&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_progress=true" />
-</a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![Will's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Willvillegas&theme=darkhub)
