@@ -57,7 +57,7 @@ Here's a little bit about me:
 <p align="center">
 <a href="https://github.com/WillVillegas">
   <img height="180em" align="center" src="https://github-readme-stats-rho-two-81.vercel.app/api?username=Willvillegas&show_icons=true&theme=github_dark" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Willvillegas&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_progress=true" />
+  <img height="180em" align="center" src="https://github-readme-stats-rho-two-81.vercel.app/api/top-langs?username=Willvillegas&layout=compact&langs_count=8&card_width=320&theme=github_dark&hide_progress=true" />
 </a>
 </p>
 
